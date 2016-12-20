@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class Caculator {
 
-	static int number1;
-	static int number2;
-	static int result = 0;
+	private static int number1;
+	private static int number2;
+	private static int result = 0;
 
 	public Caculator() {
 	}
